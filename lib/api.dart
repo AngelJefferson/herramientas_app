@@ -2,6 +2,7 @@
 // Matricula:2021-1816
 
 import 'dart:convert';
+
 import 'package:http/http.dart' as http;
 
 Future<dynamic> getJson(String url) async {

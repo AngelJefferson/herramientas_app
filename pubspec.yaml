@@ -2,7 +2,7 @@
 # Matricula:2021-1816
 
 name: herramientas_app
-description: "A new Flutter project."
+description: "Caja de Herramientas: utilidades de clima, universidades, Pokémon y noticias en una sola app Flutter."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: "none" # Remove this line if you wish to publish to pub.dev
